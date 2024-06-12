@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">* Meu nome é Rafael <br><br> * Este GitHub é dedicado ao meu portfólio. Fique à vontade para explorar todos os meus projetos.<br><br>* Caso tenha curiosidade para dar um espiada no que eu ando estudando deixarei o link do Git Hub de estudo abaixo</p>
+<p align="left">* Meu nome é Rafael <br><br> * Este GitHub é dedicado ao meu portfólio. Fique à vontade para explorar todos os meus projetos.</p>
 
 ###
 
@@ -20,7 +20,7 @@
   <a href="mailto:rafael.camilo21@outlook.com?subject=Contato%20encontrado%20pelo%20GitHub" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a  href="https://github.com/Rafael-co" target="_blank" href="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" height="40" width="52" alt="github logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%;"></a>
+
 </div>
 
 ###
